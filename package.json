@@ -22,6 +22,8 @@
   "homepage": "https://github.com/mjbrown1990/mjb.dev#readme",
   "dependencies": {
     "gatsby": "^2.19.17",
+    "gatsby-plugin-sass": "^2.1.28",
+    "node-sass": "^4.13.1",
     "react": "^16.12.0",
     "react-dom": "^16.12.0"
   }
